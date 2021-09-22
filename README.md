@@ -7,6 +7,7 @@ Python Track AppStore
 
 - CommonConfig.txt
   Fill in the Mail Conifg
+  
   **url** is the api of the Apple store, you can modify the country mainly
   **titlestr** is the title of received tracking emails
   
