@@ -1,0 +1,6 @@
+mail_host = ######
+mail_user = ######
+mail_pass = ######
+sender = ######
+url = https://itunes.apple.com/lookup?id={0}&media=software&entity=software&country=cn&limit=500
+titlestr = （CN）你关注的厂商更新产品啦!
